@@ -27,7 +27,7 @@ addbtn.addEventListener("click",()=>{
     li.appendChild(deletebtn);
     todolist.appendChild(li);
 
-    innput.value="";
+    input.value="";
 
 });
 
